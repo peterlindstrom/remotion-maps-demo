@@ -14,7 +14,7 @@ You need an access token for Mapbox Gl and Google Maps to get the demo running.
 
 ## Commands
 
-** Demo **
+**Demo**
 
 See [Video](https://youtu.be/lZAAs1-BqdA) here. 
 
